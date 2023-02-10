@@ -26,7 +26,7 @@
 
 <li>cd cc-genpro </lo>
 
-<li>python2 cc-genpro2.0 </lo>
+<li>python2 cc-genpro2.0.py </lo>
 
 <h2>HERRAMIENTAS</h2>
 
