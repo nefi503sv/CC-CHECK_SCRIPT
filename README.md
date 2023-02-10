@@ -22,9 +22,9 @@
 
 <h2>INSTALACION</h2>
 
-<li>git clone https://github.com/nefi503sv/cc-genpro2.0.git </lo>
+<li> git clone https://github.com/nefi503sv/cc-genpro.git </lo>
 
-<li>cd cc-genpro2.0 </lo>
+<li>cd cc-genpro </lo>
 
 <li>python2 cc-genpro2.0 </lo>
 
