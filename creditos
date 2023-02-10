@@ -1,0 +1,11 @@
+#!/usr/bin/env python
+import os
+print ("CREDITOS AL DEVOLEPER")
+print ("CREADOR: Nefi746")
+print ("DATE: 10/02/2023")
+print ("TELEGRAM: https://t.me/Nefi746")
+print ("MENSAJE: Nunca dejes de aprender")
+print ("")
+
+raw_input("Presiona enter para continuar")
+os.system("python2 cc-genpro2.0.py")
