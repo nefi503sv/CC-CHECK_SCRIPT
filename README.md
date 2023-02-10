@@ -1,4 +1,5 @@
-# cc-checkerV1
+# CC-CHECK_SCRIPT
+
 Credit Card Checker Stripe Charger 
 ![PHP](https://img.shields.io/badge/language-PHP-blue.svg)
 ![AUTHOR](https://img.shields.io/badge/Author-nefi503sv-orange)
